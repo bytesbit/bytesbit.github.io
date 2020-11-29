@@ -1504,14 +1504,6 @@ header .logo a {
 	margin-right: -30px;
 	margin-left: -30px
 }
-.intro-info img {
-	height: 20rem;
-	width: 20rem;
-	border-radius: 100%;
-	margin: 0rem 5 0 50;
-	float: left;
-	margin-right: 30px;
-}
 .intro-info .lead {
 	text-align: left;
 	padding-left: 15rem;
@@ -1664,7 +1656,7 @@ header .logo a {
 	background: #313131;
 	border-radius: 50%;
 	text-align: center;
-	color: #FFFFFF;
+    color: white;
 	position: absolute;
 	left: 35%;
 	top: .9rem;
